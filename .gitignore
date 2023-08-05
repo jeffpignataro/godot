@@ -1,5 +1,6 @@
 # Godot 4+ specific ignores
 .godot/
+*.x86_64
 
 # Godot-specific ignores
 .import/
